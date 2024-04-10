@@ -1,6 +1,6 @@
 body {
     
-    background-color: ;
+    background-color:black color(srgb rgb(0, 0, 0) rgb(0, 0, 0) rgba(0, 0, 0, 0.406)) ;
 
 }
 
@@ -9,12 +9,12 @@ p {
 }
 
 header,nav,main,footer {
-    width:6;
-    margin: ;
+    width: ;
+    margin:  ;
 }
 
 header {
-    width:;
+    width: ;
 
     background-image: url("");
     background-repeat: ;
@@ -88,7 +88,7 @@ nav h4 {
     border: ;
     margin-bottom:;
     text-align: ;
-    background-color: ;
+    background-color:  ;
     list-style: ;
     padding: ;
 }
@@ -322,9 +322,9 @@ main:after {
 /* --   --      --      FOOTER      --      --      -- */
 
 footer {
-    background-color: ;
-    padding-bottom: ;
-    border: ;
+    background-color:red ;
+    padding: bottom 12px; ;
+    border: 2px; ;
 }
 
 /* -- #footpic -- */
