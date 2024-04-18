@@ -1,6 +1,8 @@
 body{
-   background-image: url(musicfestival.png );
-
+   background-image: url("musicfestival.png");
+   background-size: fixed;
+   height: 2000px;
+   background-color: black;
 }
 
   
