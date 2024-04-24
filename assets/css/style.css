@@ -11,7 +11,31 @@ style{
  color: rebeccapurple;
 }
 
-  
+
+
+
+p{
+   color: black;
+    text-align: right;
+    text-align: top;
+ }
+ 
+ .center {
+    text-align: right;
+    position: relative; top: 15px; right: 15px;
+   }
+ 
+
+ 
+ .topright{
+    position: absolute;
+ top: 8px;
+ right: 16px;
+ font-size: 18px;
+ color: black;
+ text-align: right;
+} 
+
 
 
 
