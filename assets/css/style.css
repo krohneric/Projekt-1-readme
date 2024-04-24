@@ -21,8 +21,10 @@ p{
  }
  
  .center {
-    text-align: right;
-    position: relative; top: 15px; right: 15px;
+   position: absolute; 
+   top: 15px;
+   right: 15px;
+   
    }
  
 
